@@ -1,0 +1,15 @@
+{
+    "mainPage": {
+        "mainPageForm": {
+            "userName": "Felhasználónév:",
+            "password": "Jelszó:",
+            "signIn": "Belépés",
+            "signUp": "Regisztráció",
+            "signedIn": "Bejelentkezve",
+            "signedOut": "Kijelentkezve",
+            "enterPassword": "Írd be a jelszavad",
+            "enterEmail": "Írd be az email-címed",
+            "signOut": "Kilépés"
+        }
+    }
+}

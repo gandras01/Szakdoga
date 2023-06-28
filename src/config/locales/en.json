@@ -1,0 +1,15 @@
+{
+    "mainPage": {
+        "mainPageForm": {
+            "userName": "Username",
+            "password": "Password",
+            "signIn": "Log in",
+            "signUp": "Registration",
+            "signedIn": "Logged in",
+            "signedOut": "Signed out",
+            "enterPassword": "Enter your password",
+            "enterEmail": "Enter your e-mail",
+            "signOut": "Log out"
+        }
+    }
+}
